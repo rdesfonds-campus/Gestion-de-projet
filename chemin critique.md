@@ -1,7 +1,6 @@
 # Exercice chemin critique
-**1. Diagramme de dépendances**---
-
-Voir fichier chemin_critique_mjc.svg
+**1. Diagramme de dépendances**
+<img width="1012" height="732" alt="image" src="https://github.com/user-attachments/assets/d71714d1-16c5-470f-ad61-bce1be0a75bf" />
 
 **2. Tous les chemins possibles (de A à J)**
 
